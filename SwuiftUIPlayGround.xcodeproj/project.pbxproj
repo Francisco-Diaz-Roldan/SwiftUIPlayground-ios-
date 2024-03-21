@@ -11,6 +11,10 @@
 		14E9B6DF2BA9C840005B8809 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14E9B6DE2BA9C840005B8809 /* ContentView.swift */; };
 		14E9B6E12BA9C842005B8809 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 14E9B6E02BA9C842005B8809 /* Assets.xcassets */; };
 		14E9B6E42BA9C842005B8809 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 14E9B6E32BA9C842005B8809 /* Preview Assets.xcassets */; };
+		14E9B6EB2BA9C8CA005B8809 /* HeartSwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14E9B6EA2BA9C8CA005B8809 /* HeartSwiftUIView.swift */; };
+		14E9B6ED2BA9CA80005B8809 /* ButtonSwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14E9B6EC2BA9CA80005B8809 /* ButtonSwiftUIView.swift */; };
+		14E9B6EF2BAAD4C9005B8809 /* EmojiPeliculasSwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14E9B6EE2BAAD4C9005B8809 /* EmojiPeliculasSwiftUIView.swift */; };
+		14E9B6F12BAADCAA005B8809 /* InstantDeveloperSwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14E9B6F02BAADCAA005B8809 /* InstantDeveloperSwiftUIView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +23,10 @@
 		14E9B6DE2BA9C840005B8809 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		14E9B6E02BA9C842005B8809 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		14E9B6E32BA9C842005B8809 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		14E9B6EA2BA9C8CA005B8809 /* HeartSwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeartSwiftUIView.swift; sourceTree = "<group>"; };
+		14E9B6EC2BA9CA80005B8809 /* ButtonSwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonSwiftUIView.swift; sourceTree = "<group>"; };
+		14E9B6EE2BAAD4C9005B8809 /* EmojiPeliculasSwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmojiPeliculasSwiftUIView.swift; sourceTree = "<group>"; };
+		14E9B6F02BAADCAA005B8809 /* InstantDeveloperSwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InstantDeveloperSwiftUIView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +61,10 @@
 			children = (
 				14E9B6DC2BA9C840005B8809 /* SwuiftUIPlayGroundApp.swift */,
 				14E9B6DE2BA9C840005B8809 /* ContentView.swift */,
+				14E9B6EA2BA9C8CA005B8809 /* HeartSwiftUIView.swift */,
+				14E9B6EC2BA9CA80005B8809 /* ButtonSwiftUIView.swift */,
+				14E9B6EE2BAAD4C9005B8809 /* EmojiPeliculasSwiftUIView.swift */,
+				14E9B6F02BAADCAA005B8809 /* InstantDeveloperSwiftUIView.swift */,
 				14E9B6E02BA9C842005B8809 /* Assets.xcassets */,
 				14E9B6E22BA9C842005B8809 /* Preview Content */,
 			);
@@ -137,7 +149,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				14E9B6ED2BA9CA80005B8809 /* ButtonSwiftUIView.swift in Sources */,
 				14E9B6DF2BA9C840005B8809 /* ContentView.swift in Sources */,
+				14E9B6EF2BAAD4C9005B8809 /* EmojiPeliculasSwiftUIView.swift in Sources */,
+				14E9B6F12BAADCAA005B8809 /* InstantDeveloperSwiftUIView.swift in Sources */,
+				14E9B6EB2BA9C8CA005B8809 /* HeartSwiftUIView.swift in Sources */,
 				14E9B6DD2BA9C840005B8809 /* SwuiftUIPlayGroundApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
